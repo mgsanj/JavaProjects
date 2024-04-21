@@ -1,0 +1,5 @@
+customerEmail,sellerEmail,storeName,calendarName,startTime,endTime,booking,isApproved,isRequest,timeStamp,2023.11.13.11
+test@test.com,tester@test.com,TestStore,TestingCalendar,1100,1200,5,false,true,2023.11.13.11
+test@test.com,tester@test.com,TestStore,TestingCalendar,900,1000,3,false,true,2023.11.13.11
+test@test.com,tester@test.com,TestStore,TestingCalendar,900,1000,1,true,false,2023.11.13.16
+test@test.com,tester@test.com,TestingStore,TestingCalendar,1200,1300,2,true,false,2023.11.13.17

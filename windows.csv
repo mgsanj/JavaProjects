@@ -1,0 +1,13 @@
+storeName,calendarName,appointmentTitle,calendarDescription, startTime,endTime,maxAttendees,currentBookings,2023.11.12.22,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.04,2023.11.13.04,2023.11.13.04
+FengCha,Holiday,christmass,happy holidays! drink some boba,123,456,10,2,2023.11.13.04
+FengCha,Novembe,boba,good drinks,1600,1800,10,0,2023.11.12.22,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.04,2023.11.13.04,2023.11.13.04
+Subway,November,sandwiches,sandwiches are usually pretty good,100,200,3,0,2023.11.12.22,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.04,2023.11.13.04,2023.11.13.04
+Subway,March,no free sandwiches >:(,absolutely no free sandwiches will be handed out here,100,200,3,0,2023.11.12.22,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.04,2023.11.13.04,2023.11.13.04
+FengCha,December,not free boba its christmas, buy me boba,100,200,9,0,2023.11.12.22,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.04,2023.11.13.04,2023.11.13.04
+Subway,November,midnight sandwich,things taste better at night,300,400,9,0,2023.11.12.16,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.02,2023.11.13.04,2023.11.13.04,2023.11.13.04
+Subway,Half Off,Half Off Sub Sunday,cheap food i guess,800,2000,40,0,2023.11.13.03,2023.11.13.04,2023.11.13.04,2023.11.13.04
+Subway,Double Price,Double Price (We're broke),give me money please,300,1800,30,0,2023.11.13.03,2023.11.13.04,2023.11.13.04,2023.11.13.04
+Target,March,Triple Price,in today's economy >:(,200,1700,80,0,2023.11.13.04,2023.11.13.04,2023.11.13.04,2023.11.13.04
+FengCha,August,Big Black Boba Balls,they're chewy,1300,1800,69,0,2023.11.13.04,2023.11.13.04,2023.11.13.04,2023.11.13.04
+TestStore,TestingCalendar,Test1,Test,900,1000,5,0,2023.11.13.04
+TestStore,TestingCalendar,Test2,Test,1100,1200,5,0,2023.11.13.04
