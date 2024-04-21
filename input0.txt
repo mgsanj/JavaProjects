@@ -1,0 +1,5 @@
+Max:1000
+Min:100
+CompanyNumber:2
+GameStart:200,300,120,300
+RedBerry:200,800,80,1000,0,10,20,10,9,3
